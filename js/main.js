@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
       content_name: 'Corsa Stepper Pro',
       content_ids: ['stepper-pro'],
       content_type: 'product',
-      value: 421391,
+      value: 369000,
       currency: 'UZS'
     };
   }
